@@ -1,4 +1,4 @@
-a = int(input("Enter the urdu number: "))
+a = (input("Enter the urdu number: "))
 b = int(input("Enter the English number: "))
 c = int(input("Enter the Maths number: "))
 d = int(input("Enter the Science number: "))
